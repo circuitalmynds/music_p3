@@ -37,6 +37,13 @@
             "url": "https://github.com/circuitalmynds/music_p3/blob/main/videos/Liszt - 12 Etudes d'exécution transcendante, S. 139 - No. 3 Paysage (Poco adagio)-YvF_2u8aUUk.mp4?raw=true"
         },
         {
+            "id": "_2TmAE710A0",
+            "name": "Wacky Dust [_2TmAE710A0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p3/videos/Wacky Dust [_2TmAE710A0].mp4",
+            "size": 6.460585999999999,
+            "url": "https://github.com/circuitalmynds/music_p3/blob/main/videos/Wacky Dust [_2TmAE710A0].mp4?raw=true"
+        },
+        {
             "id": "N4LeGH0zeJM",
             "name": "Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： e. Conoscete, signor Figaro [N4LeGH0zeJM].mp4",
             "path": "/home/alanmatzumiya/Videos/container/p3/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： e. Conoscete, signor Figaro [N4LeGH0zeJM].mp4",
@@ -338,5 +345,5 @@
             "url": "https://github.com/circuitalmynds/music_p3/blob/main/videos/Johannes Brahms, 28 Lieder, Dietrich Fischer-Dieskau, Daniel Barenboim [QQ45pJwyO9o].mp4?raw=true"
         }
     ],
-    "total_size": 937.9635640000001
+    "total_size": 944.4241500000002
 }
